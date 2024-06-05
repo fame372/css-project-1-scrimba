@@ -1,0 +1,114 @@
+body{ 
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color:#2997a3;
+    margin: 0;
+  
+  
+}
+
+header {
+
+    background-color: #2997a3;
+    padding: 45px 0;
+  
+}
+.container {
+    width: 620px;
+    margin: auto;
+}
+h1{
+    font-size: 36px;
+    color: whitesmoke;
+  
+
+} 
+h1 h2 h3{
+ 
+    margin-top:0;
+}
+
+h3{
+    font-size: 20px;
+    color:#d0aaff;
+  
+}
+p{
+    line-height: 23px;
+    
+}
+
+a:active , a:hover {
+    color:#d4b44c;
+   
+}
+a {
+    color:#ef5839;
+   text-decoration: underline dotted;
+
+
+}
+button{
+    padding: 10px 19px;
+    border-radius: 4.6px;
+    font-weight: 500px;
+    text-decoration: none;
+    border: none;
+    display: inline-block;
+    margin: 5px;
+
+  
+}
+
+.buy-btn .about-btn{
+    color:whitesmoke;
+}
+.about-btn .info-btn{
+    color:#2997a3;
+    
+}
+.buy-btn{
+    background-color: #2997a3;
+
+}
+.info-btn{
+    background-color: #6ad1e8;
+
+}
+.buy-btn:hover{
+    background-color: #f3e885;
+    color:black;
+}
+
+section footer{
+    padding: 45px 0;
+   
+
+}
+.main-image{
+    width: 100%;
+}
+
+.section-two{
+    background-color:#48858c;
+    padding: 15px;
+    color:whitesmoke;
+   
+}
+
+.section-two-image-container{
+    display: flex;
+    justify-content: space-around;
+}
+
+.feature-image{
+    width: 300px;
+    border-radius: 4.6px;
+}
+
+footer{
+    font-size: 16px;
+    color:#2997a3;
+    text-align: center;
+}
